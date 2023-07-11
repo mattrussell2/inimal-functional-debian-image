@@ -1,0 +1,3 @@
+#!/bin/bash
+# dummy script which demonstrates that we can see secrets on non-ssh shells
+cat .secrets
